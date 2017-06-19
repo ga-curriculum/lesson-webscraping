@@ -14,6 +14,8 @@ _Editor: Sam Stack_
 
 - tweeked the addition resource '1.3-web_scraping_1-dave-solutions.ipynb' so it can be used as a bonus Html/Xpath resource. 
 
+- added additional details to help explain the differences between Scrapy and Beautiful soup and why each is being used in each circumstances. 
+
 
 ### v0.0
 
