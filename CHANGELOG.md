@@ -17,6 +17,8 @@ _Editor: Sam Stack_
 - added additional details to help explain the differences between Scrapy and Beautiful soup and why each is being used in each circumstances. 
 
 
+
+
 ### v0.0
 
-_Author: Dave Yerrington_
+_Author: Dave Yerrington, Sam Stack_
