@@ -1,12 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Webscraping
 
-## Materials We Provide
-
-
-| Topic | Description | Link1 | Link2 |
-| --- | --- | --- | --- |
-| Lesson | Webscraping | [Link](./Codealong.ipynb) | [Link](./intro-to-web-scraping-spiders-with-scrapy.ipynb)|
-
 ---
 
 ## Learning Objectives
@@ -14,9 +7,10 @@
 
 - Define Webscraping
 - Use the requests library
-- Create a Beautiful Soup object
-- find soup objects
-- create a pandas dataframe from a scrape
+- Create a `BeautifulSoup` object
+- Use your soup to scrape a web page
+- Create a `pandas` dataframe from a scrape
+
 ---
 
 ## Lesson Outline
